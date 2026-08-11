@@ -71,75 +71,6 @@ Currently, I'm balancing three things I genuinely enjoy:
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏠 Wanderlust
-
-**Full-Stack Airbnb-Inspired Web Application**
-
-A complete web platform inspired by Airbnb, built while learning and practicing the MERN/full-stack ecosystem.
-
-**Highlights:**
-
-* 🏡 Property listings
-* 🔐 Authentication & authorization
-* 📍 Location-based features
-* ☁️ Cloud image handling
-* 🗄️ MongoDB database
-* 🎨 Responsive UI
-
-**Tech:** `Node.js` `Express.js` `MongoDB` `JavaScript` `EJS` `Bootstrap`
-
----
-
-## 🧠 BrainBridge
-
-**MERN Full-Stack Learning Management System**
-
-A learning platform designed around different types of users and role-based functionality.
-
-**Highlights:**
-
-* 🔐 Authentication & authorization
-* 👥 Multiple user roles
-* 📚 Course/learning management
-* 🗄️ MongoDB database
-* ⚡ REST APIs
-* 🎨 Modern responsive interface
-
-**Tech:** `MongoDB` `Express.js` `React.js` `Node.js` `JavaScript`
-
----
-
-## ☀️ Solar Committee Management System
-
-**DSA-Based MLM Committee Project**
-
-A university DSA project designed around an MLM-based solar committee management system.
-
-Built to practice **data structures, algorithms, logic building, and real-world problem modeling.**
-
-**Tech:** `C++` `Data Structures` `Algorithms`
-
----
-
-## 🎮 Multiplayer Ball-Shooting Game
-
-**Real-Time Multiplayer Networking Game**
-
-A multiplayer ball-shooting game built to explore **real-time communication and socket programming**.
-
-**Highlights:**
-
-* 🎯 Multiplayer gameplay
-* 🌐 Real-time communication
-* 🔌 Socket-based networking
-* ⚡ Event-driven architecture
-
-**Tech:** `Node.js` `JavaScript` `Socket.IO`
-
----
-
 # 🧩 My Problem-Solving Journey
 
 ### 🟢 100+ LeetCode Problems Solved
@@ -277,6 +208,6 @@ I'm always interested in connecting with **developers, students, builders, and p
 
 ### ⭐ If you find something interesting here, consider leaving a star!
 
-**Thanks for visiting my profile!** &heart;
+**Thanks for visiting my profile!** 🔥
 
 </p>
