@@ -1,134 +1,288 @@
-# Hi there, I'm Tayyab Yahya
+# 👋 Hey, I'm Muhammad Tayyab Yahya
 
-### BS Computer Science Student | Full-Stack Web Developer | MERN | AI/ML Learner
+### 💻 Computer Science Student • Full-Stack Developer • Problem Solver • Future AI/ML Engineer
 
-### Current Focus
+> **"Build. Solve. Learn. Repeat."** 🚀
 
-- 📚 Strengthening Data Structures & Algorithms
-- 🐍 Learning Python for AI & Machine Learning
-- 💻 Building Software Projects
-- 🚀 Solving LeetCode Daily
+I'm a **Computer Science student at UMT** who enjoys turning ideas into working software and solving problems that challenge my logic.
+
+Currently, I'm balancing three things I genuinely enjoy:
+
+* 🧠 **Solving DSA problems** on LeetCode — **100+ problems solved**
+* 💻 **Building full-stack web applications** with the MERN stack
+* 🤖 **Exploring Python & Machine Learning** with the goal of becoming an AI/ML Engineer
 
 ---
 
-## 📊 GitHub Overview
+## 🧠 What I Do
 
-<table align="center">
-<tr>
-<td align="center" width="40%">
+```text
+💡 Think → 🧩 Solve → 💻 Build → 🧪 Test → 📚 Learn → 🔁 Repeat
+```
 
-<img src="https://streak-stats.demolab.com?user=tayabhayat&theme=github-dark&hide_border=true" />
+I believe strong developers aren't built by memorizing technologies — they're built by **solving problems, building projects, and continuously learning.**
 
-</td>
+---
 
-<td align="center" width="60%">
+## ⚡ Tech Stack
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tayyabyahya&theme=github_dark" />
+### 👨‍💻 Languages
 
-</td>
-</tr>
-</table>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayabhayat&theme=github-dark&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,python,html,css" />
 </p>
 
-## 💻 Most Used Languages
+### 🌐 Full-Stack Development
 
-<p align="center">
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tayabhayat&theme=github_dark" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tayabhayat&theme=github_dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" />
 </p>
 
-## 🚀 Current Journey
+### 🗄️ Databases
 
-I'm a BS Information Technology student at PUCIT who enjoys building software and solving algorithmic problems.
-
-My current focus is developing strong software engineering fundamentals while gradually transitioning into Artificial Intelligence and Machine Learning through practical projects.
-
-### 💻 Software Engineering
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Git & GitHub
-- Linux
-
-### 🤖 AI / Machine Learning
-
-Currently learning
-
-- Python
-- NumPy
-- Pandas
-- Machine Learning Fundamentals
-
-Projects
-
-- 🚧 Coming Soon...
-  
-## 🛠 Tech Stack
-
-### Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Web
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+**Also familiar with:** SQL • Microsoft SQL Server (SSMS)
+
+### 🧩 Computer Science
+
+`Data Structures & Algorithms` • `OOP` • `DBMS` • `Problem Solving`
+
+### 🛠️ Tools & Networking
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Tools
+**Also:** Cisco Packet Tracer • SSMS • MySQL
+
+---
+
+# 🚀 Featured Projects
+
+## 🏠 Wanderlust
+
+**Full-Stack Airbnb-Inspired Web Application**
+
+A complete web platform inspired by Airbnb, built while learning and practicing the MERN/full-stack ecosystem.
+
+**Highlights:**
+
+* 🏡 Property listings
+* 🔐 Authentication & authorization
+* 📍 Location-based features
+* ☁️ Cloud image handling
+* 🗄️ MongoDB database
+* 🎨 Responsive UI
+
+**Tech:** `Node.js` `Express.js` `MongoDB` `JavaScript` `EJS` `Bootstrap`
+
+---
+
+## 🧠 BrainBridge
+
+**MERN Full-Stack Learning Management System**
+
+A learning platform designed around different types of users and role-based functionality.
+
+**Highlights:**
+
+* 🔐 Authentication & authorization
+* 👥 Multiple user roles
+* 📚 Course/learning management
+* 🗄️ MongoDB database
+* ⚡ REST APIs
+* 🎨 Modern responsive interface
+
+**Tech:** `MongoDB` `Express.js` `React.js` `Node.js` `JavaScript`
+
+---
+
+## ☀️ Solar Committee Management System
+
+**DSA-Based MLM Committee Project**
+
+A university DSA project designed around an MLM-based solar committee management system.
+
+Built to practice **data structures, algorithms, logic building, and real-world problem modeling.**
+
+**Tech:** `C++` `Data Structures` `Algorithms`
+
+---
+
+## 🎮 Multiplayer Ball-Shooting Game
+
+**Real-Time Multiplayer Networking Game**
+
+A multiplayer ball-shooting game built to explore **real-time communication and socket programming**.
+
+**Highlights:**
+
+* 🎯 Multiplayer gameplay
+* 🌐 Real-time communication
+* 🔌 Socket-based networking
+* ⚡ Event-driven architecture
+
+**Tech:** `Node.js` `JavaScript` `Socket.IO`
+
+---
+
+# 🧩 My Problem-Solving Journey
+
+### 🟢 100+ LeetCode Problems Solved
+
+I solve problems regularly to improve:
+
+* Data Structures
+* Algorithms
+* Logical Thinking
+* Problem Solving
+* Time & Space Complexity
+* Coding Efficiency
+
+> 🧠 **My goal isn't just to increase the problem count — it's to become better at thinking.**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/)
+
+---
+
+# 📚 What I've Learned
+
+✅ MERN Stack Web Development
+✅ Data Structures & Algorithms
+✅ Object-Oriented Programming
+✅ Git & GitHub
+✅ Database Management
+✅ REST APIs
+✅ Authentication & Authorization
+✅ Socket Programming
+✅ Responsive Web Development
+
+---
+
+# 🌱 Currently Learning
+
+```yaml
+Currently:
+  - Building Full-Stack Projects
+  - Solving LeetCode Problems
+  - Learning Python
+  - Exploring Machine Learning
+  - Strengthening DSA & CS Fundamentals
+```
+
+---
+
+# 🎯 What's Next?
+
+My journey doesn't stop at web development.
+
+### 🔭 Next Goals
+
+**01.** 🚀 Advanced Full-Stack Development
+**02.** 🤖 Advanced Artificial Intelligence
+**03.** 🧠 Machine Learning & Deep Learning
+**04.** 📊 Data Science & AI Systems
+**05.** 💡 Build AI-powered real-world applications
+
+### 🛣️ My Roadmap
+
+```text
+DSA & CS Fundamentals
+        ↓
+Full-Stack Development
+        ↓
+Python
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Advanced AI
+        ↓
+     AI/ML Engineer 🤖
+```
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tayyab-Yahya&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-Yahya&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-## 📂 Featured Projects
+---
 
-- 🚀 [LeetCode Solutions](https://github.com/tayabhayat/leetcode_solutions)
-- 🔒 [Secure Web Chat Application](https://github.com/tayabhayat/Secure-Web-Base-Chat-Application-with-Encryption)
-- 📚 [Library Management System](https://github.com/tayabhayat/...)
-
-## 📈 Learning Roadmap
-
-### ✅ Completed
-
-- Python
-- Git & GitHub
-- Data Structures & Algorithms
-
-### 🟡 In Progress
-
-- NumPy
-- Pandas
-- Machine Learning
-
-### ⚪ Next Goals
-
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-  
-## 🏆 Achievements
-
-🏅 100+ LeetCode Problems
-
-🏅 Daily Coding Habit
-
-🏅 Built Multiple Software Projects
-
-🏅 AI/ML Portfolio (In Progress)
-
-## 📫 Connect
+# 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tayabhayat/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tayyab%20Hayat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://streak-stats.demolab.com?user=Tayyab-Yahya&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 💭 A Little About Me
+
+```javascript
+const tayyab = {
+    education: "Computer Science @ UMT",
+
+    interests: [
+        "Problem Solving",
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Machine Learning"
+    ],
+
+    currentlyDoing: [
+        "Building Projects",
+        "Solving LeetCode Problems",
+        "Learning Python & ML"
+    ],
+
+    leetcode: "100+ Problems",
+
+    goal: "Become an AI/ML Engineer",
+
+    mindset: "Always Learning 🚀"
+};
+```
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with **developers, students, builders, and people working on interesting ideas.**
+
+<p align="center">
+  <a href="https://github.com/Tayyab-Yahya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <a href="mailto:tayabhayat36@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you find something interesting here, consider leaving a star!
+
+**Thanks for visiting my profile!** 🚀
+
 </p>
