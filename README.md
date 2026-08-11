@@ -14,6 +14,10 @@ Currently, I'm balancing three things I genuinely enjoy:
 
 ---
 
+<img align="right" height="440" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif"  />
+
+---
+
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Languages
