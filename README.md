@@ -1,24 +1,34 @@
-<h2 align="center">👋 I'm Tayyab Yahya <br> <span style="font-size:14px; " > <br> Software Engineer  |  MERN Stack  |  Aspiring Developer  |  Exploring <em>AI & Machine Learning</em> </span> </h2>
+<h2 align="center">
+  👋 I'm Tayyab Yahya
+  <br><br>
+  <span style="font-size:14px;">
+    Software Engineer | MERN Stack | Aspiring Developer | Exploring <em>AI & Machine Learning</em>
+  </span>
+</h2>
 
-<div display="block" style="display:flex; justify-content:space-between; align-items:center; gap:40px">
-  <div>
-    I'm a **Computer Science student** who enjoys turning ideas into working software and solving problems that challenge my logic.
-  
-  Currently, I'm balancing three things I genuinely enjoy:
-  
-  * 🧠 **Solving DSA problems** on LeetCode — **100+ problems solved**
-  * 💻 **Building full-stack web applications** with the MERN stack
-  * 🤖 **Exploring Python & Machine Learning** with the goal of becoming an AI/ML Engineer
-  </div>
-  <div>
-    <img align="right" height="270" width="440" style="margin-top:50px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+I'm a **Computer Science student** who enjoys turning ideas into working software and solving problems that challenge my logic.
+
+### Currently, I'm balancing three things:
+
+- 🧠 **Solving DSA problems** on LeetCode — **100+ problems solved**
+- 💻 **Building full-stack web applications** with the MERN stack
+- 🤖 **Exploring Python & Machine Learning** with the goal of becoming an AI/ML Engineer
+
+    </td>
+
+    <td width="45%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## ⚡ Tech Stack
-
 ### 👨‍💻 Languages
 
 <p>
