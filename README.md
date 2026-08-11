@@ -1,5 +1,5 @@
 <h2 align="center">
-  <span style="font-size:18px">Hi 👋 I'm Muhammad Tayyab Yahya</span>
+  <span style="font-size:18px">Hi👋 I'm Muhammad Tayyab Yahya</span>
   <br><br>
   <span style="font-size:14px;">
     Software Engineer | MERN Stack | Aspiring Developer | Exploring AI & Machine Learning
