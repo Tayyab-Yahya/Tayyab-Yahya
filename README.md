@@ -210,12 +210,12 @@ Advanced AI
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=gruvbox" />
 </p>
 
 ---
@@ -223,7 +223,7 @@ Advanced AI
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tayyab-Yahya&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tayyab-Yahya&theme=gruvbox&hide_border=true" />
 </p>
 
 ---
