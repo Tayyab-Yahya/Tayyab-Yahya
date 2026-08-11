@@ -214,7 +214,9 @@ Advanced AI
 </p>
 
 <p align="center">
+  <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=tokyonight" />
+</p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=tokyonight" />
 </p>
 
