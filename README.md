@@ -66,7 +66,7 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=gruvbox" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=gruvbox" width="85%"/>
 </p>
 
 <p align="center">
