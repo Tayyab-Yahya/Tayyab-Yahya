@@ -5,8 +5,9 @@
     Software Engineer | MERN Stack | Aspiring Developer | Exploring AI & Machine Learning
   </span>
 </h2>
+<br><br><br>
 
-<table>
+<table border="none">
   <tr>
     <td width="55%" valign="top">
 
