@@ -210,12 +210,12 @@ Advanced AI
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=gruvbox" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=gruvbox" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=gruvbox" height="180"/>
 </p>
 
 ---
