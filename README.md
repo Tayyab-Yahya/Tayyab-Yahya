@@ -14,16 +14,6 @@ Currently, I'm balancing three things I genuinely enjoy:
 
 ---
 
-## 🧠 What I Do
-
-```text
-💡 Think → 🧩 Solve → 💻 Build → 🧪 Test → 📚 Learn → 🔁 Repeat
-```
-
-I believe strong developers aren't built by memorizing technologies — they're built by **solving problems, building projects, and continuously learning.**
-
----
-
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Languages
@@ -57,6 +47,27 @@ I believe strong developers aren't built by memorizing technologies — they're 
 </p>
 
 **Also:** Cisco Packet Tracer • SSMS • MySQL
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=gruvbox" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=gruvbox" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=gruvbox" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tayyab-Yahya&theme=gruvbox&hide_border=true" />
+</p>
 
 ---
 
@@ -204,27 +215,6 @@ Advanced AI
         ↓
      AI/ML Engineer 🤖
 ```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=gruvbox" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=gruvbox" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=gruvbox" height="180"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tayyab-Yahya&theme=gruvbox&hide_border=true" />
-</p>
 
 ---
 
