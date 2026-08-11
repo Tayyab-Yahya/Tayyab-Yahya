@@ -210,12 +210,12 @@ Advanced AI
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=dracula" />
 </p>
 
 ---
@@ -273,10 +273,10 @@ I'm always interested in connecting with **developers, students, builders, and p
   <a href="https://github.com/Tayyab-Yahya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/tayyab-yahya-1a419735a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/TayyabYahya/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
@@ -287,6 +287,6 @@ I'm always interested in connecting with **developers, students, builders, and p
 
 ### ⭐ If you find something interesting here, consider leaving a star!
 
-**Thanks for visiting my profile!** 🚀
+**Thanks for visiting my profile!** &heart;
 
 </p>
