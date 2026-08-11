@@ -1,10 +1,6 @@
-# 👋 Hey, I'm Muhammad Tayyab Yahya
+<h2 align="center">👋 I'm Tayyab Yahya <br> <span style="font-size:14px; " > <br> Software Engineer  |  MERN Stack  |  Aspiring Developer  |  Exploring <em>AI & Machine Learning</em> </span> </h2>
 
-### 💻 Computer Science Student • Full-Stack Developer • Problem Solver • Future AI/ML Engineer
-
-> **"Build. Solve. Learn. Repeat."** 🚀
-
-I'm a **Computer Science student at UMT** who enjoys turning ideas into working software and solving problems that challenge my logic.
+I'm a **Computer Science student** who enjoys turning ideas into working software and solving problems that challenge my logic.
 
 Currently, I'm balancing three things I genuinely enjoy:
 
@@ -12,7 +8,11 @@ Currently, I'm balancing three things I genuinely enjoy:
 * 💻 **Building full-stack web applications** with the MERN stack
 * 🤖 **Exploring Python & Machine Learning** with the goal of becoming an AI/ML Engineer
 
+---
+
+<div align="center">
 <img align="right" height="440" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
 ---
 
