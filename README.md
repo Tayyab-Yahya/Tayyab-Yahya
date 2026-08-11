@@ -1,4 +1,4 @@
-<img align="right" height="370" width="440" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height="270" width="440" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 <h2 align="center">👋 I'm Tayyab Yahya <br> <span style="font-size:14px; " > <br> Software Engineer  |  MERN Stack  |  Aspiring Developer  |  Exploring <em>AI & Machine Learning</em> </span> </h2>
 
