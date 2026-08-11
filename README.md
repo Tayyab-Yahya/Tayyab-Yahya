@@ -12,9 +12,7 @@ Currently, I'm balancing three things I genuinely enjoy:
 * 💻 **Building full-stack web applications** with the MERN stack
 * 🤖 **Exploring Python & Machine Learning** with the goal of becoming an AI/ML Engineer
 
----
-
-<img align="right" height="440" src="https://media.giphy.com/media/dopFZQOlSQSE0ir2Dm/giphy.gif"  />
+<img align="right" height="440" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ---
 
