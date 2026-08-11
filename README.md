@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Tayyab Hayat
+# Hi there, I'm Tayyab Yahya
 
-### BS Information Technology Student | Software Developer | AI/ML Learner
+### BS Computer Science Student | Full-Stack Web Developer | MERN | AI/ML Learner
 
-### 🎯 Current Focus
+### Current Focus
 
 - 📚 Strengthening Data Structures & Algorithms
 - 🐍 Learning Python for AI & Machine Learning
@@ -23,7 +23,7 @@
 
 <td align="center" width="60%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tayabhayat&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tayyabyahya&theme=github_dark" />
 
 </td>
 </tr>
