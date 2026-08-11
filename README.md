@@ -5,7 +5,7 @@
     Software Engineer | MERN Stack | Aspiring Developer | Exploring AI & Machine Learning
   </span>
 </h2>
-<br><br><br>
+<br><br>
 
 <table border="none">
   <tr>
