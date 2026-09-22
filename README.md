@@ -1,5 +1,3 @@
-<img src="assets/portrait.png" width="300" alt="portrait">
-
 <h2 align="center">
   <!-- <span style="font-size:18px">Hi👋 I'm Muhammad Tayyab Yahya</span> -->
   <!-- NAME / TAGLINE - animated typing -->
