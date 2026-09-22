@@ -1,3 +1,5 @@
+<img src="assets/portrait.png" width="300" alt="portrait">
+
 <h2 align="center">
   <!-- <span style="font-size:18px">Hi👋 I'm Muhammad Tayyab Yahya</span> -->
   <!-- NAME / TAGLINE - animated typing -->
@@ -66,12 +68,6 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 **Also:** Cisco Packet Tracer • SSMS • MySQL
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Tayyab-Yahya&theme=github-dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Tayyab-Yahya&theme=default&hide_border=true">
-  <img src="https://streak-stats.demolab.com?user=Tayyab-Yahya&theme=github-dark&hide_border=true" alt="GitHub Streak">
-</picture>
 
 # 📊 GitHub Stats
 
