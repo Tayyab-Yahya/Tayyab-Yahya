@@ -59,7 +59,7 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 ### 🛠️ Tools & Networking
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 **Also:** Cisco Packet Tracer • SSMS • MySQL
