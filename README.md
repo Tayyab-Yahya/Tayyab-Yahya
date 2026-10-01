@@ -1,7 +1,7 @@
 <h2 align="center">
   <!-- NAME / TAGLINE - animated typing -->
   <a href="https://github.com/Tayyab-Yahya">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=F5891B&center=true&vCenter=true&width=560&lines=Tayyab+Yahya;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=2113BD&center=true&vCenter=true&width=560&lines=Tayyab+Yahya;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
   </a>
   <br><br>
   <span style="font-size:14px;">
@@ -69,12 +69,12 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=gruvbox" width="75%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-Yahya&theme=algolia" width="75%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=gruvbox" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=gruvbox" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyab-Yahya&theme=algolia" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tayyab-Yahya&theme=algolia" height="180"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tayyab-Yahya&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tayyab-Yahya&theme=algolia&hide_border=true" />
 </p>
 
 ---
@@ -216,6 +216,8 @@ I'm always interested in connecting with **developers, students, builders, and p
   <a href="https://leetcode.com/u/TayyabYahya/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+  <a href="mailto:fullstacktayyab@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F24?style=for-the-badge&logo=gmail&logoColor=18B1DB" alt="Email" /></a>
+  <a href="https://wa.me/923184637893" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
