@@ -1,8 +1,7 @@
 <h2 align="center">
-  <!-- <span style="font-size:18px">Hi👋 I'm Muhammad Tayyab Yahya</span> -->
   <!-- NAME / TAGLINE - animated typing -->
-  <a href="https://github.com/gargibhardwaj24">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=F5891B&center=true&vCenter=true&width=560&lines=Tayyab+Yahya;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+  <a href="https://github.com/Tayyab-Yahya">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=F5891B&center=true&vCenter=true&width=560&lines=Tayyab+Yahya;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
   </a>
   <br><br>
   <span style="font-size:14px;">
