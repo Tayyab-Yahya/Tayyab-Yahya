@@ -5,7 +5,7 @@
   </a>
   <br><br>
   <span style="font-size:14px;">
-    Software Engineer | MERN Stack | Aspiring Developer | Exploring AI & Machine Learning
+    Software Engineer | Exploring AI & Machine Learning | Content Creator
   </span>
 </h2>
 <br><br>
