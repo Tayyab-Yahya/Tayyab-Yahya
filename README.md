@@ -1,12 +1,12 @@
 <h2 align="center">
+  <!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2109EB&height=150&section=header&text=Tayyab%20Yahya&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20Undergrad%20|%20Full-Stack%20Dev%20|%20Tech%20Enthusiast&descAlignY=75" width="100%" />
+
   <!-- NAME / TAGLINE - animated typing -->
   <a href="https://github.com/Tayyab-Yahya">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=2113BD&center=true&vCenter=true&width=560&lines=Tayyab+Yahya;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=900&color=2109EB&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Competitive+Programmer;Video+Editor;Content+Creator;CS+Undergraduate;01100011+01101111+01100100+01100101" alt="typing banner">
   </a>
-  <br><br>
-  <span style="font-size:14px;">
-    Software Engineer | Exploring AI & Machine Learning | Content Creator
-  </span>
+  <br><br>  
 </h2>
 <br><br>
 
@@ -35,13 +35,13 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,css,html" />
 </p>
 
 ### 🌐 Full-Stack Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases
@@ -54,7 +54,7 @@ I'm a **Computer Science student** who enjoys turning ideas into working softwar
 
 ### 🧩 Computer Science
 
-`Data Structures & Algorithms` • `OOP` • `DBMS` • `Problem Solving`
+`Machine Learning` • `Cloud Computing` • `Operating Systems` • `Data Structures & Algorithms` • `OOP` • `DBMS` • `Problem Solving`
 
 ### 🛠️ Tools & Networking
 
@@ -227,5 +227,7 @@ I'm always interested in connecting with **developers, students, builders, and p
 ### ⭐ If you find something interesting here, consider leaving a star!
 
 **Thanks for visiting my profile!** 🔥
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2109EB&height=100&section=footer" width="100%"/>
 
 </p>
