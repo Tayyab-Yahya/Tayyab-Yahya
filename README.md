@@ -1,6 +1,6 @@
 <h2 align="center">
   <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2109EB&height=150&section=header&text=Tayyab%20Yahya&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20Undergrad%20|%20Full-Stack%20Dev%20|%20Tech%20Enthusiast&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2109EB&height=150&section=header&text=Nauman%20Naseer&fontSize=50&fontColor=ffffff&animation=twinkling&desc=CS%20Undergrad%20|%20Full-Stack%20Dev%20|%20Tech%20Enthusiast&descAlignY=75" width="100%" />
 
   <!-- NAME / TAGLINE - animated typing -->
   <a href="https://github.com/Tayyab-Yahya">
